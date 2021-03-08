@@ -1,5 +1,5 @@
 Title: 
-Autonomous Mapping, Localization and Navigation using Computer Vision
+Autonomous Mapping, Localization and Navigation using Computer Vision as well as Tuning of Camera
 
 Abstract:
 One of the main tools used in autonomous mapping and navigation is a 3D Lidar. A 3D Lidar provides various advantages. It is not sensitive to light conditions, 
