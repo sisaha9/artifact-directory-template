@@ -1,7 +1,7 @@
 {
     "this-repository": "https://github.com/sisaha9/artifact-directory-template.git",
     "project-repository": "https://github.com/UCSDAutonomousVehicles2021Team1",
-    "dockerhub-repository": ["sisaha9/180a_rtabmap_tuning:latest", "sisaha9/180bf1tenth_docker:latest", "dys525/dsc180b_camera_tuning:latest"],
+    "dockerhub-repository": "ucsdautonomousvehicle2021team1/dockerhub_autonomous_nav_map_tune_repo:latest",
     "project-website-url": "https://sisaha9.github.io/camera_mapping_navigation_website/",
     "project-website-code": "https://github.com/sisaha9/camera_mapping_navigation_website.git"
 }
