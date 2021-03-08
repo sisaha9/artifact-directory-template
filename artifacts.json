@@ -2,6 +2,6 @@
     "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
     "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
     "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "project-website-url": "https://sisaha9.github.io/camera_mapping_navigation_website/",
+    "project-website-code": "https://github.com/sisaha9/camera_mapping_navigation_website.git"
 }
