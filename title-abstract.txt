@@ -3,12 +3,12 @@ Autonomous Mapping and Navigation using Computer Vision
 
 Abstract:
 One of the main tools used in autonomous mapping and navigation is a 3D Lidar. A 3D Lidar provides various advantages. It is not sensitive to light conditions, 
-it can detect color through reflective channels, it has a complete 360 degree view of the environment and does not require any ”learning” to detect obstacles. One
-can use the reflective channel to detect the color of lanes as well as avoid obstacles. The pointcloud information from the Lidar can also easily enable mapping and
-localization as the vehicle will know where it is at all points. It is easy to see why so many large scale autonomous vehicle units invest in expensive and bulky 
-Lidars. However, this is not accessible to all due to it’s price. A camera (even depth) is much more affordable. However it comes with it’s own slew of 
-disadvantages. It can see color but programming for the color is hard due to varying light conditions. Unless you use multiple cameras you often can’t see all 
-around you. These factors together are a hindrance to autonomous navigation. We thus aim to demonstrate 3 things:
+it can detect color through reflective channels, it has a complete 360 degree view of the environment and does not require any ”learning” to detect obstacles. 
+One can use the reflective channel to detect the color of lanes as well as avoid obstacles. The pointcloud information from the Lidar can also easily enable 
+mapping and localization as the vehicle will know where it is at all points. It is easy to see why so many large scale autonomous vehicle units invest in 
+expensive and bulky Lidars. However, this is not accessible to all due to it’s price. A camera (even depth) is much more affordable. However it comes with 
+it’s own slew of disadvantages. It can see color but programming for the color is hard due to varying light conditions. Unless you use multiple cameras you 
+often can’t see all around you. These factors together are a hindrance to autonomous navigation. We thus aim to demonstrate 3 goals:
 
 1) Mapping and Localization with a single camera and other sensory information using RTABMAP SLAM algorithm
 2) Obstacle avoidance and lane following with a single camera using Facebook AI Detectron2 Deep Learning and ROS
